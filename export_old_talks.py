@@ -1,3 +1,9 @@
+""" Scrapes old seminar talks from http://www.cs.iit.edu/~mbilgic/seminar/index.html . The output is then transfered to a Google Sheet and Google Calendar.
+
+This fails on the "Who we are..." talks, so I've just ignored them.
+
+I also made no attempt to scrape the actual abstract and bio.
+"""
 import codecs
 import re
 import requests
