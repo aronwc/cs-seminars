@@ -1,6 +1,6 @@
 # cs-seminars
 
-IIT Computer Science Seminar Webpage
+IIT Computer Science Seminar Webpage, live at <http://cs.iit.edu/~culotta/cs-seminars/>
 
 **old_talks.py**    
 I imported these using `python export_old_talks.py`, which scrapes some of the talks from http://cs.iit.edu/~mbilgic/seminar/. 
