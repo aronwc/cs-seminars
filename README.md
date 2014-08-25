@@ -10,7 +10,7 @@ The talks are maintained in a Google Spreadsheet: https://docs.google.com/spread
 These are then automatically imported into a Google Calendar with id:  iit.edu_sbnenhe2kqri611q823ovopiu0@group.calendar.google.com
 
 This is done by a Google App Script:
-  https://script.google.com/d/1dTB5dNO9Dxu52r9EBs_t4ajHD-Oa3i1NfLRSux3lwrdxGVN7DctOQv4E
+  https://script.google.com/d/1dTB5dNO9Dxu52r9EBs_t4ajHD-Oa3i1NfLRSux3lwrdxGVN7DctOQv4E/edit?usp=drive_web
 
 Ask Aron (`aculotta@iit.edu`) if you need access.
 
