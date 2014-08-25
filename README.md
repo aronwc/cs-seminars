@@ -2,7 +2,7 @@
 
 IIT Computer Science Seminar Webpage
 
-** old_talks.py **  
+**old_talks.py**    
 I imported these using `python export_old_talks.py`, which scrapes some of the talks from http://cs.iit.edu/~mbilgic/seminar/. 
 
 The talks are maintained in a Google Spreadsheet: https://docs.google.com/spreadsheets/d/15IkZE3vwt0T7TbxbVfKIoVsYFdA2A-whGs8j7mRpkgY/edit#gid=0
