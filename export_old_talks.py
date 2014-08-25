@@ -22,11 +22,9 @@ for table in soup.findAll('table'):
             text = re.sub('\s+', ' ', td.text).strip()
             if i == 0:  # date
                 text = text.split()[1]
-                # print 'date=', text
                 event.append(text)
             elif i == 1:  # time
                 parts = text.split(' - ')
-                # print 'parts=', parts
                 if len(parts) == 2:
                     event.extend(parts)
             else:
